@@ -24,7 +24,7 @@ public class atividade3 {
 		
 		System.out.println("Salário liquido: " + (salBruto + adiNoturno + (hExtra * 5) - desconto));
 		
-
+		ler.close();
 	}
 
 }
