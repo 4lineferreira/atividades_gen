@@ -59,7 +59,7 @@ public class atividade5 {
 		 
 		 total = qnt * precoUnidade;
 		 
-		 System.out.println("Produto: " + produto + "\n Valor total: " + total);
+		 System.out.println("\nProduto: " + produto + "\nValor total: " + total);
 		 
 		 ler.close();
 
