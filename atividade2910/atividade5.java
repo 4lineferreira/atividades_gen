@@ -10,7 +10,6 @@ public class atividade5 {
 		 String produto;
 		 double precoUnidade, total;
 		 		 
-		 
 		 Scanner ler = new Scanner(System.in);
 		 
 		 System.out.println("Digite o código do produto de : ");
