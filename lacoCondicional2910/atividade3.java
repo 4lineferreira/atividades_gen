@@ -1,4 +1,4 @@
-package atividade2910;
+package lacoCondicional2910;
 
 import java.util.Scanner;
 

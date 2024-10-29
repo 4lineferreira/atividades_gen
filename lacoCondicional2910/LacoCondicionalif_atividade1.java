@@ -1,8 +1,8 @@
-package atividade2910;
+package lacoCondicional2910;
 
 import java.util.Scanner;
 
-public class atividade1 {
+public class LacoCondicionalif_atividade1 {
 
 	public static void main(String[] args) {
 
