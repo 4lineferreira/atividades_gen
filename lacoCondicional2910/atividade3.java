@@ -18,11 +18,11 @@ public class atividade3 {
 		System.out.println("Digite a idade do doador: ");
 		idade = ler.nextInt();
 		
-			if (idade < 18 || idade > 69){
-				System.out.println("Você não está apto para doação.");
-				return;
-			}else System.out.println("Primeira doação? \n[true] sim \\n[false] não ");
-			primeiraDoacao = ler.hasNext();
-	        }
+		System.out.println("Está é a sua primeira doação? \n[true] sim \\\\n[false] não ");
+		
+		/*if(idade >= 18 && idade <=69);{
+			if();*/
+		}
 
+       
 }

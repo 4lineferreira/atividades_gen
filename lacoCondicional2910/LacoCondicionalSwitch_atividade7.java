@@ -29,17 +29,18 @@ public class LacoCondicionalSwitch_atividade7 {
 
 		case 2:
 			resultado = (numero1 - numero2);
-			operacao = " + ";
+			operacao = " - ";
 			break;
 
 		case 3:
 			resultado = (numero1 / numero2);
-			operacao = " + ";
+			operacao = " / ";
 			break;
 
 		case 4:
 			resultado = (numero1 * numero2);
-			operacao = " + ";
+			operacao = " x ";
+			break;
 
 		default:
 			System.out.println("Digite uma operação valida");
