@@ -1,4 +1,4 @@
-package lacoCondicional2910;
+package AT2910.lacoCondicional;
 
 import java.util.Scanner;
 

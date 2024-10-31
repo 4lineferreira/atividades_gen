@@ -1,4 +1,4 @@
-package atividades2810;
+package AT2810.operadores;
 
 import java.util.Scanner;
 

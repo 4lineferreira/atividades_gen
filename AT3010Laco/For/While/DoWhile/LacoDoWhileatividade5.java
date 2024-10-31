@@ -1,4 +1,4 @@
-package LacoForWhileDoWhile3010;
+package AT3010Laco.For.While.DoWhile;
 
 import java.util.Scanner;
 
