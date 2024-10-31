@@ -24,7 +24,7 @@ public class LacoWhileAtividade3 {
 				contadorMaior++;
 			}
 		} System.out.println("idade até 25: " + contadorMenor);
-		System.out.println("idade até 25: " + contadorMaior);
+		System.out.println("idade até 50: " + contadorMaior);
 	} 
 
 }
