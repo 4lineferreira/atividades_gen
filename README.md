@@ -1,4 +1,5 @@
 Repositório de Atividades - Bootcamp Java Full Stack
+
 Neste repositório, você encontrará as atividades entregues para a Generation Brasil durante o meu bootcamp de Java Full Stack.
 
 As pastas estão organizadas com uma nomenclatura padronizada:
