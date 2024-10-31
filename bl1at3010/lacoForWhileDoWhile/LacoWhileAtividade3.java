@@ -1,4 +1,4 @@
-package bloco1.at3010.lacoForWhileDoWhile;
+package bl1at3010.lacoForWhileDoWhile;
 
 import java.util.Scanner;
 

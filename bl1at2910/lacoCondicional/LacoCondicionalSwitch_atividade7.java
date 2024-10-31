@@ -1,4 +1,4 @@
-package bloco1.AT2910.lacoCondicional;
+package bl1at2910.lacoCondicional;
 
 import java.util.Scanner;
 

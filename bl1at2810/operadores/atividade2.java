@@ -1,4 +1,4 @@
-package bi1.at2810.operadores;
+package bl1at2810.operadores;
 
 import java.util.Scanner;
 
