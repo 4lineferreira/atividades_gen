@@ -11,7 +11,7 @@ public class CollectionArray1 {
 		ArrayList<String> cor = new ArrayList<String>();
 
 		for (int i = 1; i < 6; i++) {
-			System.out.println("Digite a " + i + " cor");
+			System.out.println("Digite a " + i + "º cor");
 			cor.add(scanner.next());
 
 		}
@@ -21,7 +21,7 @@ public class CollectionArray1 {
 			System.out.println(cores);
 
 		}
-		Collections.sort(cor);
+		Collections.sort(cor);//sort organiza em ordem crescente
 		System.out.println("Ordenar cores: \n");
 
 		for (String cores : cor) {
